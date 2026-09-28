@@ -1,7 +1,7 @@
 # Netflix-content-dashboard
 An interactive Excel dashboard analyzing 3,256 Netflix titles (2012–2023).
 
-![Dashboard Preview](screenshots/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ## Overview
 
