@@ -44,7 +44,7 @@ Built with Microsoft Excel to explore Netflix's global content library. The dash
 1. Download `NETFLIX dashboard.xlsx`
 2. Open in Excel
 3. Go to the **Dashboard** sheet
-4. Use the slicers on the right (Type, Country, Year) to filter
+4. Use the slicers on the right (Type, Country, Year) to filter.
 
 ## Author
 
