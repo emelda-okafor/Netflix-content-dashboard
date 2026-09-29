@@ -5,11 +5,11 @@ An interactive Excel dashboard analyzing 3,256 Netflix titles (2012–2023).
 
 ## Overview
 
-Built with Microsoft Excel to explore Netflix's global content library. The dashboard features 5 charts and 3 slicers for real-time filtering.
+Built with Microsoft Excel to explore Netflix's global content library. The dashboard features 5 charts and 3 slicers for real time filtering.
 
 ## Dataset
 
-- **Source:** Kaggle — Netflix Movies and TV Shows
+- **Source:** Kaggle- Netflix Movies and TV Shows
 - **Size:** 3,256 titles
 - **Time range:** 2012–2023
 
